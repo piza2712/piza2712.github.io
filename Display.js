@@ -159,7 +159,7 @@ function obtenerFraseAlAzar() {
       // Eliminar el mensaje después de un tiempo (por ejemplo, 5 segundos)
       setTimeout(() => {
         mensajeElement.remove();
-      }, 7000); // 5000 milisegundos = 5 segundos
+      }, 10000); // 5000 milisegundos = 5 segundos
     }
   }
   
@@ -174,8 +174,5 @@ function obtenerFraseAlAzar() {
     // Eliminar el mensaje después de un tiempo (por ejemplo, 5 segundos)
     setTimeout(() => {
       mensajeElement.remove();
-    }, 7000); // 5000 milisegundos = 5 segundos
+    }, 10000); // 5000 milisegundos = 5 segundos
   }
-  
-  // ... (Código posterior que ya tenías) ...
-  
