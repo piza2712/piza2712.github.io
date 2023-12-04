@@ -95,7 +95,7 @@ body {
   
   .container.contenedor-mensajes {
     position: fixed;
-    top: 600px;
+    top: 1000px;
     left: 275px; /* Cambiado de 'right' a 'left' */
     z-index: 9999;
     text-align: center; /* Cambiado de 'right' a 'left' */
